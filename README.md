@@ -1,3 +1,8 @@
+Read the companion article that goes with this blog-repo @ https://liamverse.io/building-a-blog-with-sveltekit
+
+---
+SvelteKit default README below
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
